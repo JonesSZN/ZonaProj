@@ -11,7 +11,7 @@ const Design = () => {
         <div className="relative ">
           <img
             className="  object-cover rounded-md h-[378px] lg:h-auto"
-            src="Pyramid.jpg"
+            src="pyramid.jpg"
             alt=""
           />
           <div className="flex flex-col lg:gap-32 gap-12 absolute lg:top-20 lg:left-20 top-20 left-5 ">
