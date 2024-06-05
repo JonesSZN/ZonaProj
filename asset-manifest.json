@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/zona-proj/static/css/main.69a375f2.css",
-    "main.js": "/zona-proj/static/js/main.6bb408f1.js",
+    "main.js": "/zona-proj/static/js/main.9630a3b8.js",
     "index.html": "/zona-proj/index.html",
     "main.69a375f2.css.map": "/zona-proj/static/css/main.69a375f2.css.map",
-    "main.6bb408f1.js.map": "/zona-proj/static/js/main.6bb408f1.js.map"
+    "main.9630a3b8.js.map": "/zona-proj/static/js/main.9630a3b8.js.map"
   },
   "entrypoints": [
     "static/css/main.69a375f2.css",
-    "static/js/main.6bb408f1.js"
+    "static/js/main.9630a3b8.js"
   ]
 }
