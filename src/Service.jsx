@@ -46,8 +46,8 @@ const Cards = () => {
 
 const Logos = () => {
   const LogoArray = [
-    "Service1.svg",
-    "Service4.svg",
+    "service1.svg",
+    "service4.svg",
     "service6.svg",
     "service3.svg",
     "service2.svg",

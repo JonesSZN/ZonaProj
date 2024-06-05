@@ -20,7 +20,7 @@ const Nav = () => {
 };
 
 const NavLeft = () => {
-  return <img src="Logo.svg" alt="" />;
+  return <img src="logo.svg" alt="" />;
 };
 
 const NavRight = () => {
